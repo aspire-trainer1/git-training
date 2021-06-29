@@ -5,3 +5,4 @@ This is a sample project where we learn collaboration using git.
 2) Create the right branches. 
 3) Checkout to your own local environments. 
 4) Add some code to commit
+5) Commit it man!
